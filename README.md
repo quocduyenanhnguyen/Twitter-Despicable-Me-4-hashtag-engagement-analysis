@@ -4,4 +4,4 @@
 # Description: 
 
 - I explored Despicable Me 4 hashtag on Twitter to collect engagement metrics data over a one week period (i.e. from Jun 2, 2024 to Jun 8, 2024).
-- Attached to this repository is my SQL queries and output, Python script to open the content of selected Twitter posts, the data in a spreadsheet, the written report, and the presentation file
+- Attached to this repository is my SQL queries and output, Python script to open the content of selected Twitter posts (top 3 by View Count, and top 3 by Number of Likes), the data in a spreadsheet, the written report, and the presentation file
